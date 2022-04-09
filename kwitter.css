@@ -1,4 +1,16 @@
+html,body{
+    height:100%;
+    margin:0;
+}
 body{
-    text-align:center;
-    background-image: -moz-linear-gradient();
+    background-image: linear-gradient(to bottom, lightblue, pink);
+}
+.login_div{
+    background: pink;
+    float:none;
+    border-radius:10px;
+}
+img{
+    width: 50px;
+    height: 50px;
 }
